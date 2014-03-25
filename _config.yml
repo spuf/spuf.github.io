@@ -1,0 +1,10 @@
+name: Арсений Разин
+future: true
+permalink: /:categories/:year-:month-:day/:title.html
+timezone: Europe/Moscow
+markdown: redcarpet
+safe: true
+lsi: false
+pygments: true
+exclude: 
+  - "*.less"

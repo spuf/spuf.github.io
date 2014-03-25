@@ -1,0 +1,60 @@
+---
+layout: clean
+---
+
+!>http://gravatar.com/avatar/f3e370078fed146b6325b049fd767745?s=200!
+
+h1. Arseniy Razin
+
+h2. Contacts
+
+E-mail: "spufru@ya.ru":mailto:spufru@ya.ru
+Skype: arseniy.razin
+Website: "http://spuf.ru":http://spuf.ru
+Mobile phone: +7 (985) 480-0530
+
+h2. Work experience
+
+*07.2010–08.2010*
+ER-telecom Holding
+_Position:_ Web-developer
+* Develop web-sites using CMS Drupal (PHP)
+
+*02.2012–08.2013*
+AwardWallet LLC ("http://awardwallet.com/":http://awardwallet.com/)
+_Position:_ Web-developer
+* Extend functionality of a project on Symfony2 (PHP)
+* Develop HTML5 mobile application using PhoneGap platform
+
+*09.2013–present*
+2Comrades ("http://twocomrades.ru/":http://twocomrades.ru/)
+_Position:_ Web-developer
+* Develop frontend (jQuery, Backbone) and backend (PHP, MySQL) of web-applications.
+
+h2. Education
+
+*2009–2013* NRU Higher School of Economics (Perm, Russia)
+_Faculty:_ Business-informatics
+_Speciality:_ Enterprise architecture (bachelor)
+
+*2013–2015* NRU Higher School of Economics (Moscow, Russia)
+_Faculty:_ Business-informatics
+_Speciality:_ Software development management (master).
+
+h2. Skills
+
+* Work with following programming languages, frameworks and libraries:
+** JavaScript (Node.js, Backbone, Angular, jQuery);
+** PHP (Symfony2, Drupal), Python (GAE);
+** Objective-C, Java (Android);
+** C#, C++, Delphi;
+** XPath, RegExp.
+* Have expirience with revision control systems: Subversion, Git.
+* Have developed mobile applications on PhoneGap (Cordova) platform.
+* Advanced user of Windows, OS X, and Linux operating systems.
+
+h2. Languages
+
+* Russian - native
+* English – advanced
+* German – intermediate
