@@ -1,8 +1,8 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
-Арсений Разин
- - spuf.ru
+Arseny Razin
+ - arseny.me
  - skype: arseniy.razin
  - vk.com/arseniy.razin
  - github.com/spuf
@@ -14,17 +14,17 @@ Fingerprint:
 
 -----BEGIN PGP SIGNATURE-----
 
-iQIcBAEBCgAGBQJS4SdpAAoJEDx8fhPYWALKcU8QALaVrXqz/FXnPynJkfkVSx/v
-M9YQZ/pNuPCeFgsyCaMMqmmZZ4qLve+jZ+JSoNsYcQY5M+y+4v2qVGh+4Mq+/aV6
-vbAkEgSotMIX5RApvRAiQPOU2J/lJq5BjfLqb0dpLAUkyTMoNS/px8AM5YH/uTRz
-m8AOYA4BnBqFCgkpVGNNvCSfyxballaW4CQi0Pbz6s7KO59XVn12UpH4yFAFSi0e
-libeHCBuQyxkpHIUDv8nzSX/OvOLGyQSywb4Ex/3+bPmVtrx/KczAoaLX6EYv0MF
-ZusSwIPbxZSCoEYrLcoEuWMdFv1j3B55nsS5O+utz88OsicqMpyfBa1/XRdiD9Sc
-bWnyJJQJlD/Fe8+93BGAB8Y9XPvgtfjmqwoA375HSgEZghyWmqAYtP2JMVXx1riA
-fslsNd5hjDX7tJogc/E9MXHWPNxYTnnYAIBrf0P8ozDWUi6Q4pfcdCDl1FoxkUw3
-rz/ZqCs5H9/Wjt36rAs8T8YGd2HYV26HMiCPBDaWT9WsY0qnd590NtGKYA9oLmEd
-K9OD+mD8W22bqXU6GeIs5wHvBbYcqZxTK7INYic+n9nZgK2Z/txl3UKT5MNDEbn+
-/An3pXYr4Shta/e5WI2DFPJplOHxebNPP2Wy3SiU9UEQVKY6rkDV31a6+BuhCUWO
-xokBUGucpSdGfS1KrXZC
-=mlBK
+iQIcBAEBCgAGBQJTNUXRAAoJEDx8fhPYWALKYDEQAIsCaWFjpDpg8a61zcvAhtf5
+h3l/Dhe7cr7+tRLFCv8CTjeIY7Sxeux+wtn+pwSh4lB/A5JROrKG76Os2ZEiVL0h
+zpor+AqzOa4DW0ztXSOfoOfbKC6jIrjdP/jIFU9g7oqmNsalDpmzNKFX9SDgxLaE
+ygM/GViQxvJO8chG9ki6IZuUe9j/spGBfOPfuXRB0+DbtPlzQj16KPc6unSn7s5B
+WVts7236IBhIxygVkRsd2TLDSN4EtpCbwDWa9HL2P717ILdX9RoZqbaZAMdDu9SX
+OdrkhK9jchaKjIvec7NWwy+Y/FboBXuMaywyERPnD+mvsaHSnQkAn6Bac0i1f4qE
+Hhx1SIFlNbpen4KlolWBI8Y9CR7cF+AR3bZs5GbtNtDY+ydJljNsxaMqIjuD3ctJ
+efrU/GeiAsZisUddTlkO3bh+fiY3WCxv3oFkcwvv72gi1xwiWAyTo7A9K9WXw/dA
+f0uOMqXt16so+gMx5RuQSPN5hOIKmJWg+st2u8jsIXS87h+6UT1DlZhCR98RAbhP
+7kX8tXqH3IpdrmVY4VVhojMvmLkYc0LNIvl+qu0zx8698Q28HVY8947hlZdy3Yx6
+taii2mq7uvgFObUOEYFWyDjz9ehxmAe/T0D+RYYej52BDlbz0hLHF2a3lHvoX8ty
+VvgYGmSDX+Ej6pgRx8b8
+=3HEw
 -----END PGP SIGNATURE-----
