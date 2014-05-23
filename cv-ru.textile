@@ -1,4 +1,5 @@
 ---
+Github: "":github.com/spuf
 layout: clean
 ---
 
@@ -10,7 +11,8 @@ h2. Контактная информация
 
 E-mail: "spufru@ya.ru":mailto:spufru@ya.ru
 Skype: arseniy.razin
-Website: "http://spuf.ru":http://spuf.ru
+Website: "http://arseny.me":http://arseny.me
+Github: "http://github.com/spuf":http://github.com/spuf
 Телефон: 8-985-480-0530
 
 h2. Опыт работы
@@ -27,6 +29,18 @@ _Должность:_ Веб-программист
 _Ключевые обязанности:_
 * Расширение функционала сайта на Symfony2 (PHP)
 * Разработка мобильного HTML5 приложения на PhoneGap
+
+*09.2013–01.2014*
+2Товарища
+_Должность:_ Веб-программист
+_Ключевые обязанности:_
+* Разработка frontend (jQuery, Backbone) и backend (PHP) частей веб-приложений
+
+*02.2014–наст. время*
+Далее
+_Должность:_ Веб-программист
+_Ключевые обязанности:_
+* Разработка сайтов на PHP и JavaScript
 
 h2. Образование
 
@@ -54,7 +68,3 @@ h2. Владение иностранными языками
 
 * Английский – advanced
 * Немецкий – intermediate
-
-h2. Водительские права
-
-* Категория "В"
