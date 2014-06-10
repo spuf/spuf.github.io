@@ -38,7 +38,7 @@ NSString * const COUNT_KEY = @"count";
 
 @implementation SCModel
 
-- (id) init
+- (id)init
 {
     self = [super init];
     if (self)
@@ -48,11 +48,11 @@ NSString * const COUNT_KEY = @"count";
     return self;
 }
 
-+ (SCModel *)sharedInstance
++ (SCModel*)sharedInstance
 {
-    static SCModel *_sharedInstance = nil;
-    static dispatch_once_t onceSecurePredicate;
-    dispatch_once(&onceSecurePredicate, ^
+    static SCModel* _sharedInstance = nil;
+    static dispatch_once_t oncePredicate;
+    dispatch_once(&oncePredicate, ^
                   {
                       _sharedInstance = [self new];
                   });
