@@ -50,7 +50,7 @@ NSString * const COUNT_KEY = @"count";
 
 + (SCModel*)sharedInstance
 {
-    static SCModel* _sharedInstance = nil;
+    static SCModel *_sharedInstance = nil;
     static dispatch_once_t oncePredicate;
     dispatch_once(&oncePredicate, ^
                   {
