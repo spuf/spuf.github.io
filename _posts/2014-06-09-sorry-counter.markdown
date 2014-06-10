@@ -25,7 +25,8 @@ Actions:
     self.counterLabel.text = [[NSNumber numberWithLong:count] stringValue];
 }
 
-- (IBAction)sorryButtonAction:(id)sender {
+- (IBAction)sorryButtonAction:(id)sender
+{
     [SCModel sharedInstance].count += 1;
     [self setCounterText];
 }
@@ -34,15 +35,14 @@ Actions:
 Data model:
 
 {% highlight obj-c %}
-NSString * const COUNT_KEY = @"count";
+NSString* const COUNT_KEY = @"count";
 
 @implementation SCModel
 
 - (id)init
 {
     self = [super init];
-    if (self)
-    {
+    if (self) {
         _count = 0;
     }
     return self;
@@ -50,26 +50,22 @@ NSString * const COUNT_KEY = @"count";
 
 + (SCModel*)sharedInstance
 {
-    static SCModel *_sharedInstance = nil;
+    static SCModel* _sharedInstance = nil;
     static dispatch_once_t oncePredicate;
-    dispatch_once(&oncePredicate, ^
-                  {
-                      _sharedInstance = [self new];
-                  });
-
+    dispatch_once(&oncePredicate, ^{ _sharedInstance = [self new]; });
     return _sharedInstance;
 }
 
--(void)saveData
+- (void)saveData
 {
-    NSUserDefaults *defaults = [NSUserDefaults standardUserDefaults];
+    NSUserDefaults* defaults = [NSUserDefaults standardUserDefaults];
     [defaults setInteger:self.count forKey:COUNT_KEY];
     [defaults synchronize];
 }
 
--(void)loadData
+- (void)loadData
 {
-    NSUserDefaults *defaults = [NSUserDefaults standardUserDefaults];
+    NSUserDefaults* defaults = [NSUserDefaults standardUserDefaults];
     self.count = [defaults integerForKey:COUNT_KEY];
 }
 
