@@ -1,10 +1,10 @@
 name: Arseny Razin
 future: true
-permalink: /:categories/:year-:month-:day/:title.html
+permalink: /:categories/:title.html
 timezone: Europe/Moscow
 markdown: redcarpet
 safe: true
 lsi: false
-pygments: true
+highlighter: pygments
 exclude: 
   - "*.less"
