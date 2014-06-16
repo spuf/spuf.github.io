@@ -2,6 +2,7 @@
 layout: post
 title:  "Sorry Counter"
 category: apps
+excerpt: "App allows you to count your sorries."
 ---
 
 ![App Icon][icon]
@@ -79,6 +80,6 @@ Screenshots
 ![App Launch screen][launch]
 ![App Screenshot][screenshot_1]
 
-[icon]: {{ site.url }}/assets/sorry-counter/icon.png
-[launch]: {{ site.url }}/assets/sorry-counter/launch.png
-[screenshot_1]: {{ site.url }}/assets/sorry-counter/screenshot_1.png
+[icon]: /assets/img/sorry-counter/icon.png
+[launch]: /assets/img/sorry-counter/launch.png
+[screenshot_1]: /assets/img/sorry-counter/screenshot_1.png
