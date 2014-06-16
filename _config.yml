@@ -1,10 +1,13 @@
 name: Arseny Razin
-future: true
 permalink: /:categories/:title.html
 timezone: Europe/Moscow
 markdown: redcarpet
+
+excerpt_separator: "\n\n"
+
 safe: true
 lsi: false
-highlighter: pygments
+pygments: true
+
 exclude: 
   - "*.less"
