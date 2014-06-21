@@ -73,13 +73,4 @@ NSString* const COUNT_KEY = @"count";
 @end
 {% endhighlight %}
 
-
-Screenshots
------------
-
-![App Launch screen][launch]
-![App Screenshot][screenshot_1]
-
 [icon]: /assets/img/sorry-counter/icon.png
-[launch]: /assets/img/sorry-counter/launch.png
-[screenshot_1]: /assets/img/sorry-counter/screenshot_1.png
