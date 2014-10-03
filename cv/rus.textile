@@ -2,8 +2,6 @@
 layout: clean
 ---
 
-!>http://gravatar.com/avatar/f3e370078fed146b6325b049fd767745?s=200!
-
 h1. Разин Арсений Андреевич
 
 h2. Контактная информация
@@ -12,7 +10,7 @@ E-mail: "spufru@ya.ru":mailto:spufru@ya.ru
 Skype: arseniy.razin
 Website: "http://arseny.me":http://arseny.me
 Github: "http://github.com/spuf":http://github.com/spuf
-Телефон: 8-985-480-0530
+Телефон: +7-985-480-0530
 
 h2. Опыт работы
 
