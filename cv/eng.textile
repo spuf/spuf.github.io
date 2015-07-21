@@ -4,15 +4,15 @@ layout: clean
 
 !>http://gravatar.com/avatar/f3e370078fed146b6325b049fd767745?s=200!
 
-h1. Arseniy Razin
+h1. Arseny Razin
 
 h2. Contacts
 
-E-mail: "spufru@ya.ru":mailto:spufru@ya.ru
+E-mail: "spufru@gmail.com":mailto:spufru@gmail.com
 Skype: arseniy.razin
-Website: "http://spuf.ru":http://spuf.ru
+Website: "http://arseny.me/":http://arseny.me/
 Github: "http://github.com/spuf":http://github.com/spuf
-Mobile phone: +7 (985) 480-0530
+Mobile phone: +7 (926) 546-4365
 
 h2. Work experience
 
@@ -44,8 +44,8 @@ _Faculty:_ Business-informatics
 _Speciality:_ Enterprise architecture (bachelor)
 
 *2013–2015* NRU Higher School of Economics (Moscow, Russia)
-_Faculty:_ Business-informatics
-_Speciality:_ Software development management (master).
+_Faculty:_ Computer Science
+_Speciality:_ Software Engineering (master).
 
 h2. Skills
 
@@ -57,7 +57,7 @@ h2. Skills
 ** XPath, RegExp.
 * Have expirience with revision control systems: Subversion, Git.
 * Have developed mobile applications on PhoneGap (Cordova) platform.
-* Advanced user of Windows, OS X, and Linux operating systems.
+* Advanced user of OS X, Linux, and Windows operating systems.
 
 h2. Languages
 
