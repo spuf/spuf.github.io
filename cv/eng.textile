@@ -17,7 +17,7 @@ Mobile phone: +7 (926) 546-4365
 h2. Work experience
 
 *07.2010–08.2010*
-ER-telecom Holding
+ER-telecom Holding ("http://ertelecom.ru":http://ertelecom.ru)
 _Position:_ Full Stack Developer
 * Develop intranet website using CMS Drupal (PHP)
 
@@ -44,11 +44,11 @@ _Position:_ Full Stack Developer
 
 h2. Education
 
-*2009–2013* Higher School of Economics (Perm, Russia)
+*2009–2013* Higher School of Economics _(Perm, Russia)_
 Bachelor's degree in Business informatics
 
-*2013–2015* Higher School of Economics (Moscow, Russia)
-Master's degree in Software Engineering (in English).
+*2013–2015* Higher School of Economics _(Moscow, Russia)_
+Master's degree in Software Engineering (in English)
 
 h2. Skills
 
