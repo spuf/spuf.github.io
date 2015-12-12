@@ -18,49 +18,44 @@ h2. Work experience
 
 *07.2010–08.2010*
 ER-telecom Holding
-_Position:_ Web developer
+_Position:_ Full Stack Developer
 * Develop intranet website using CMS Drupal (PHP)
 
 *02.2012–08.2013*
 AwardWallet LLC ("http://awardwallet.com":http://awardwallet.com)
-_Position:_ Web developer
-* Refactor some core functionality of monolith PHP application using unit testing
-* Implement new features to a project on Symfony2 (PHP)
+_Position:_ Full Stack Developer
+* Refactor some core functionality of monolith PHP application using unit testing (PHPUnit)
+* Implement new features to a project on Symfony2 (PHP, MySQL)
 * Develop HTML5 mobile application using PhoneGap platform (JavaScript, Objective-C, Java)
 
 *09.2013–01.2014*
 2Comrades ("http://twocomrades.ru":http://twocomrades.ru)
-_Position:_ JavaScript developer
-* Develop frontend (jQuery, Backbone) of web application
+_Position:_ JavaScript Developer
+* Develop frontend using jQuery and Backbone
 * Develop monitoring and statistics functionality (Canvas, Highcharts)
 * Connect different maps sevices API providers
 
 *02.2014–present*
 Dalee ("http://www.dalee.ru":http://www.dalee.ru)
-_Position:_ Web developer
-* Develop websites using PHP and JavaScript
-* Work with MegaFon website (BEM methodology)
-* Develop and refactoring microservices on Node.js and Ruby
+_Position:_ Full Stack Developer
+* Develop websites using PHP, JavaScript, PostgreSQL
+* Develop and refactoring microservices on Node.js and Ruby using Redis
+* Work with MegaFon website (BEM methodology and all techs above)
 
 h2. Education
 
-*2009–2013* NRU Higher School of Economics (Perm, Russia)
+*2009–2013* Higher School of Economics (Perm, Russia)
 Bachelor's degree in Business informatics
 
-*2013–2015* NRU Higher School of Economics (Moscow, Russia)
+*2013–2015* Higher School of Economics (Moscow, Russia)
 Master's degree in Software Engineering (in English).
 
 h2. Skills
 
-* Work with following programming languages, frameworks and libraries:
-** JavaScript (Node.js, Backbone, Angular, jQuery);
-** PHP (Symfony2, Drupal), Python (GAE);
-** Objective-C, Java (Android);
-** C#, C++, Delphi;
-** XPath, RegExp.
-* Have expirience with revision control systems: Subversion, Git.
-* Have developed mobile applications on PhoneGap (Cordova) platform.
-* Advanced user of OS X, Linux, and Windows operating systems.
+* Work with lots of frameworks and programming languages during school years.
+* Expirience with revision control systems: Subversion, Git.
+* Exprience in developing and publishing iOS mobile apps.
+* Advanced user of OS X, Debian, and Windows operating systems.
 
 h2. Languages
 
