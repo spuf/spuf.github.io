@@ -10,7 +10,7 @@ E-mail: "spufru@ya.ru":mailto:spufru@ya.ru
 Skype: arseniy.razin
 Website: "http://arseny.me":http://arseny.me
 Github: "http://github.com/spuf":http://github.com/spuf
-Телефон: +7-985-480-0530
+Телефон: "+7 (926) 546-4365":tel://+79265464365
 
 h2. Опыт работы
 

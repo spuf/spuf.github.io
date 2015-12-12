@@ -18,34 +18,37 @@ h2. Work experience
 
 *07.2010–08.2010*
 ER-telecom Holding
-_Position:_ Web-developer
-* Develop web-sites using CMS Drupal (PHP)
+_Position:_ Web developer
+* Develop intranet website using CMS Drupal (PHP)
 
 *02.2012–08.2013*
 AwardWallet LLC ("http://awardwallet.com":http://awardwallet.com)
-_Position:_ Web-developer
-* Extend functionality of a project on Symfony2 (PHP)
-* Develop HTML5 mobile application using PhoneGap platform
+_Position:_ Web developer
+* Refactor some core functionality of monolith PHP application using unit testing
+* Implement new features to a project on Symfony2 (PHP)
+* Develop HTML5 mobile application using PhoneGap platform (JavaScript, Objective-C, Java)
 
 *09.2013–01.2014*
 2Comrades ("http://twocomrades.ru":http://twocomrades.ru)
-_Position:_ Web-developer
-* Develop frontend (jQuery, Backbone) and backend (PHP, MySQL) of web-applications.
+_Position:_ JavaScript developer
+* Develop frontend (jQuery, Backbone) of web application
+* Develop monitoring and statistics functionality (Canvas, Highcharts)
+* Connect different maps sevices API providers
 
 *02.2014–present*
 Dalee ("http://www.dalee.ru":http://www.dalee.ru)
-_Position:_ Web-developer
-* Develop web-sites using PHP and JavaScript
+_Position:_ Web developer
+* Develop websites using PHP and JavaScript
+* Work with MegaFon website (BEM methodology)
+* Develop and refactoring microservices on Node.js and Ruby
 
 h2. Education
 
 *2009–2013* NRU Higher School of Economics (Perm, Russia)
-_Faculty:_ Business-informatics
-_Speciality:_ Enterprise architecture (bachelor)
+Bachelor's degree in Business informatics
 
 *2013–2015* NRU Higher School of Economics (Moscow, Russia)
-_Faculty:_ Computer Science
-_Speciality:_ Software Engineering (master).
+Master's degree in Software Engineering (in English).
 
 h2. Skills
 
