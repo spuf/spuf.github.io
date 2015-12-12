@@ -6,34 +6,14 @@ layout: clean
 
 h1. Arseny Razin
 
-h2. Contacts
-
 E-mail: "spufru@gmail.com":mailto:spufru@gmail.com
 Skype: arseniy.razin
-Website: "http://arseny.me/":http://arseny.me/
-Github: "http://github.com/spuf":http://github.com/spuf
 Mobile phone: +7 (926) 546-4365
+Github: "http://github.com/spuf":http://github.com/spuf
+Website: "http://arseny.me/":http://arseny.me/
+Date of birth: 30 January 1991
 
 h2. Work experience
-
-*07.2010–08.2010*
-ER-telecom Holding ("http://ertelecom.ru":http://ertelecom.ru)
-_Position:_ Full Stack Developer
-* Develop intranet website using CMS Drupal (PHP)
-
-*02.2012–08.2013*
-AwardWallet LLC ("http://awardwallet.com":http://awardwallet.com)
-_Position:_ Full Stack Developer
-* Refactor some core functionality of monolith PHP application using unit testing (PHPUnit)
-* Implement new features to a project on Symfony2 (PHP, MySQL)
-* Develop HTML5 mobile application using PhoneGap platform (JavaScript, Objective-C, Java)
-
-*09.2013–01.2014*
-2Comrades ("http://twocomrades.ru":http://twocomrades.ru)
-_Position:_ JavaScript Developer
-* Develop frontend using jQuery and Backbone
-* Develop monitoring and statistics functionality (Canvas, Highcharts)
-* Connect different maps sevices API providers
 
 *02.2014–present*
 Dalee ("http://www.dalee.ru":http://www.dalee.ru)
@@ -42,19 +22,38 @@ _Position:_ Full Stack Developer
 * Develop and refactoring microservices on Node.js and Ruby using Redis
 * Work with MegaFon website (BEM methodology and all techs above)
 
-h2. Education
+*09.2013–01.2014*
+2Comrades ("http://twocomrades.ru":http://twocomrades.ru)
+_Position:_ JavaScript Developer
+* Develop frontend using jQuery and Backbone
+* Develop monitoring and statistics functionality (Canvas, Highcharts)
+* Connect different maps sevices API providers
 
-*2009–2013* Higher School of Economics _(Perm, Russia)_
-Bachelor's degree in Business informatics
+*02.2012–08.2013*
+AwardWallet LLC ("http://awardwallet.com":http://awardwallet.com)
+_Position:_ Full Stack Developer
+* Refactor some core functionality of monolith PHP application using unit testing (PHPUnit)
+* Implement new features to a project on Symfony2 (PHP, MySQL)
+* Develop HTML5 mobile application using PhoneGap platform (JavaScript, Objective-C, Java)
+
+*07.2010–08.2010*
+ER-telecom Holding ("http://ertelecom.ru":http://ertelecom.ru)
+_Position:_ Full Stack Developer
+* Develop intranet website using CMS Drupal (PHP)
+
+h2. Education
 
 *2013–2015* Higher School of Economics _(Moscow, Russia)_
 Master's degree in Software Engineering (in English)
 
+*2009–2013* Higher School of Economics _(Perm, Russia)_
+Bachelor's degree in Business informatics
+
 h2. Skills
 
 * Work with lots of frameworks and programming languages during school years.
-* Expirience with revision control systems: Subversion, Git.
-* Exprience in developing and publishing iOS mobile apps.
+* Experience in revision control systems: Subversion, Git.
+* Experience in developing and publishing iOS mobile apps.
 * Advanced user of OS X, Debian, and Windows operating systems.
 
 h2. Languages
