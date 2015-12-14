@@ -2,7 +2,7 @@
 layout: clean
 ---
 
-!>{width: 200px;}photo.jpg(Photo)!
+!>{width: 200px;}https://s.gravatar.com/avatar/3f63a8bc4eb83620fe4316b3ce2b649b?s=400(Photo)!
 
 h1. Arseny Razin
 
