@@ -2,7 +2,7 @@
 layout: clean
 ---
 
-!>http://gravatar.com/avatar/f3e370078fed146b6325b049fd767745?s=200!
+!>{width: 200px;}photo.jpg(Photo)!
 
 h1. Arseny Razin
 
@@ -10,7 +10,7 @@ E-mail: "spufru@gmail.com":mailto:spufru@gmail.com
 Skype: arseniy.razin
 Mobile phone: +7 (926) 546-4365
 Github: "http://github.com/spuf":http://github.com/spuf
-Website: "http://arseny.me/":http://arseny.me/
+Website: "http://arseny.me":http://arseny.me
 Date of birth: 30 January 1991
 
 h2. Work experience
@@ -18,28 +18,27 @@ h2. Work experience
 *02.2014–present*
 Dalee ("http://www.dalee.ru":http://www.dalee.ru)
 _Position:_ Full Stack Developer
-* Develop websites using PHP, JavaScript, PostgreSQL
-* Develop and refactoring microservices on Node.js and Ruby using Redis
-* Work with MegaFon website (BEM methodology and all techs above)
+* Developed websites using PHP, JavaScript, PostgreSQL
+* Developed and refactored microservices using Node.js, Ruby, Redis
+* Worked on the "MegaFon":http://moscow.megafon.ru website (BEM methodology and all techs above)
 
 *09.2013–01.2014*
 2Comrades ("http://twocomrades.ru":http://twocomrades.ru)
 _Position:_ JavaScript Developer
-* Develop frontend using jQuery and Backbone
-* Develop monitoring and statistics functionality (Canvas, Highcharts)
-* Connect different maps sevices API providers
+* Developed frontend using jQuery, Backbone, Highcharts
+* Worked with different maps sevices APIs
 
 *02.2012–08.2013*
 AwardWallet LLC ("http://awardwallet.com":http://awardwallet.com)
 _Position:_ Full Stack Developer
-* Refactor some core functionality of monolith PHP application using unit testing (PHPUnit)
-* Implement new features to a project on Symfony2 (PHP, MySQL)
-* Develop HTML5 mobile application using PhoneGap platform (JavaScript, Objective-C, Java)
+* Refactored monolith PHP application using unit testing (PHPUnit)
+* Developed website on Symfony2 (PHP, MySQL)
+* Developed HTML5 mobile application using PhoneGap platform (JavaScript, Objective-C, Java)
 
 *07.2010–08.2010*
 ER-telecom Holding ("http://ertelecom.ru":http://ertelecom.ru)
 _Position:_ Full Stack Developer
-* Develop intranet website using CMS Drupal (PHP)
+* Developed intranet website using Drupal (PHP)
 
 h2. Education
 
@@ -51,10 +50,10 @@ Bachelor's degree in Business informatics
 
 h2. Skills
 
-* Work with lots of frameworks and programming languages during school years.
-* Experience in revision control systems: Subversion, Git.
-* Experience in developing and publishing iOS mobile apps.
-* Advanced user of OS X, Debian, and Windows operating systems.
+* Worked with lots of frameworks and programming languages during school years.
+* Experienced in revision control systems: Subversion, Git.
+* Experienced in developing and publishing iOS mobile apps.
+* Advanced user of OS X, Debian, and Windows.
 
 h2. Languages
 
