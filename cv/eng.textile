@@ -18,27 +18,27 @@ h2. Work experience
 *02.2014–present*
 Dalee ("http://www.dalee.ru":http://www.dalee.ru)
 _Position:_ Full Stack Developer
-* Developed websites using PHP, JavaScript, PostgreSQL
-* Developed and refactored microservices using Node.js, Ruby, Redis
-* Worked on the "MegaFon":http://moscow.megafon.ru website (BEM methodology and all techs above)
+* Developing websites using PHP, JavaScript, PostgreSQL
+* Developing and refactoring microservices using Node.js, Ruby, Redis
+* Working on the "MegaFon":http://moscow.megafon.ru website (BEM methodology and all techs above)
 
 *09.2013–01.2014*
 2Comrades ("http://twocomrades.ru":http://twocomrades.ru)
 _Position:_ JavaScript Developer
-* Developed frontend using jQuery, Backbone, Highcharts
-* Worked with different maps sevices APIs
+* Developing frontend using jQuery, Backbone, Highcharts
+* Working with different maps sevices APIs
 
 *02.2012–08.2013*
 AwardWallet LLC ("http://awardwallet.com":http://awardwallet.com)
 _Position:_ Full Stack Developer
-* Refactored monolith PHP application using unit testing (PHPUnit)
-* Developed website on Symfony2 (PHP, MySQL)
-* Developed HTML5 mobile application using PhoneGap platform (JavaScript, Objective-C, Java)
+* Refactoring monolith PHP application using unit testing (PHPUnit)
+* Developing website on Symfony2 (PHP, MySQL)
+* Developing HTML5 mobile application using PhoneGap platform (JavaScript, Objective-C, Java)
 
 *07.2010–08.2010*
 ER-telecom Holding ("http://ertelecom.ru":http://ertelecom.ru)
 _Position:_ Full Stack Developer
-* Developed intranet website using Drupal (PHP)
+* Developing intranet website using Drupal (PHP)
 
 h2. Education
 
@@ -50,9 +50,9 @@ Bachelor's degree in Business informatics
 
 h2. Skills
 
-* Worked with lots of frameworks and programming languages during school years.
-* Experienced in revision control systems: Subversion, Git.
-* Experienced in developing and publishing iOS mobile apps.
+* Work with lots of frameworks and programming languages during school years.
+* Experience in revision control systems: Subversion, Git.
+* Experience in developing and publishing iOS mobile apps.
 * Advanced user of OS X, Debian, and Windows.
 
 h2. Languages
