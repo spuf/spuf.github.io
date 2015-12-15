@@ -7,7 +7,6 @@ Hash: SHA512
 Bitmessage: BM-2cW9G1jvTabC9md31NMuWhrJFWpBhQZwvC
 
 -----BEGIN PGP SIGNATURE-----
-
 iQEcBAEBCgAGBQJT2leoAAoJELVUscMMWM1kU8gIAL8rowA6qz/3yaN3M9aIL6fw
 bffBEB9JFGuwitlB74B5BCH80L7gPuKm0ePSRM4BVBKBe3bF7v9pbYeOU3UQooSQ
 x7PliF9YAzopYcXUosskEZeLiisadryy6KGIs0KagLLTU+/K/VDHnFEt6qsiRz9w
@@ -20,8 +19,6 @@ EWtWk+3zahyelGLFy5xnfSNCCrw5aNPylkEWtMAhz+fXjgiMy5ea4nJvLZLONX8=
 ================================================================
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
-Version: GnuPG/MacGPG2 v2.0.22 (Darwin)
-
 mQENBFPPsToBCADSFCIojUfAto1XHxQBLP62GqokXUBFHUcK428osgSsvPUkUaEu
 YNVl2nLV4uL2OuE9tFtVlLN6P1daDiMI6fSLdZ8ez+ciN3C5oZYmw2Zbhm1Pbp9v
 3Eklo9KtzZMOEQOKbwcC8trBRfKlJt7FdqDE6f0wV+gBYQx5ureIcPPKGi3z9xXC
