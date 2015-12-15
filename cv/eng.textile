@@ -2,7 +2,7 @@
 layout: clean
 ---
 
-!>{width: 200px;}https://s.gravatar.com/avatar/3f63a8bc4eb83620fe4316b3ce2b649b?s=400(Photo)!
+!>{width: 200px; border: 1px solid grey;}https://s.gravatar.com/avatar/3f63a8bc4eb83620fe4316b3ce2b649b?s=400(Photo)!
 
 h1. Arseny Razin
 
@@ -25,7 +25,7 @@ _Position:_ Full Stack Developer
 *09.2013 - 01.2014*
 2Comrades ("http://twocomrades.ru":http://twocomrades.ru)
 _Position:_ JavaScript Developer
-* Developing frontend using jQuery, Backbone, Highcharts
+* Developing frontend using jQuery, Backbone, Highcharts, HTML5 Canvas
 * Working with different maps sevices APIs
 
 *02.2012 - 08.2013*
