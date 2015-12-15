@@ -50,10 +50,9 @@ Bachelor's degree in Business Informatics
 
 h2. Skills
 
-* Work with lots of frameworks and programming languages during school years.
-* Experience in revision control systems: Subversion, Git.
-* Experience in developing and publishing iOS mobile apps.
-* Advanced user of OS X, Debian, and Windows.
+* Primary: PHP, JavaScript, SQL, RegExp, jQuery
+* Secondary: Node.js, Ruby, ES6, Nginx, Apache
+* Tools: Zsh, PhpStorm, Sublime Text, Git, Nano, Photoshop
 
 h2. Languages
 
