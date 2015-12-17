@@ -18,27 +18,27 @@ h2. Work experience
 *02.2014 - present*
 "Dalee Internet Agency":http://www.dalee.ru
 _Position:_ Full Stack Developer
-* Developing websites using PHP, JavaScript, PostgreSQL
-* Developing and refactoring microservices using Node.js, Ruby, Redis
-* Working on the "MegaFon":http://moscow.megafon.ru website (BEM methodology and all techs above)
+* Developing websites using PHP, JavaScript, PostgreSQL.
+* Developing and refactoring microservices using Node.js, Ruby, Redis.
+* Working on the "MegaFon":http://moscow.megafon.ru website (BEM methodology and all techs above).
 
 *09.2013 - 01.2014*
 "2Comrades":http://twocomrades.ru
 _Position:_ JavaScript Developer
-* Developing frontend using jQuery, Backbone, Highcharts, HTML5 Canvas
-* Working with different maps sevices APIs
+* Developing frontend using jQuery, Backbone, Highcharts, HTML5 Canvas.
+* Working with different maps services APIs.
 
 *02.2012 - 08.2013*
 "AwardWallet LLC":http://awardwallet.com
 _Position:_ Full Stack Developer
-* Refactoring monolith PHP application using unit testing (PHPUnit)
-* Developing website on Symfony2 (PHP, MySQL)
-* Developing HTML5 mobile app using PhoneGap platform (JavaScript, Objective-C, Java)
+* Refactoring monolith PHP application using unit testing (PHPUnit).
+* Developing website on Symfony2 (PHP, MySQL).
+* Developing HTML5 mobile app using PhoneGap platform (JavaScript, Objective-C, Java).
 
 *07.2010 - 08.2010*
 "ER-telecom Holding":http://ertelecom.ru
 _Position:_ Full Stack Developer
-* Developing intranet website using Drupal (PHP)
+* Developing intranet website using Drupal (PHP).
 
 h2. Education
 
@@ -50,9 +50,9 @@ Bachelor's degree in Business Informatics
 
 h2. Skills
 
-* Primary: PHP, JavaScript, SQL, RegExp, jQuery
-* Secondary: Node.js, Ruby, ES6, Nginx, Apache
-* Tools: Zsh, PhpStorm, Sublime Text, Git, Nano, Photoshop
+* Primary: PHP, JavaScript, SQL, RegExp, jQuery.
+* Secondary: Node.js, Ruby, ES6, Nginx, Apache.
+* Tools: Zsh, PhpStorm, Sublime Text, Git, Nano, Photoshop.
 
 h2. Languages
 
