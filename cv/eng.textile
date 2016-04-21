@@ -36,7 +36,7 @@ _Position:_ Full Stack Developer
 * Developing HTML5 mobile app using PhoneGap platform (JavaScript, Objective-C, Java).
 
 *07.2010 - 08.2010*
-"ER-telecom Holding":http://ertelecom.ru
+"ER-Telecom Holding":http://ertelecom.ru
 _Position:_ Full Stack Developer
 * Developing intranet website using Drupal (PHP).
 
