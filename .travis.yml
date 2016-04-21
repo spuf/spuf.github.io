@@ -1,7 +1,7 @@
 dist: trusty
-sudo: required
 install:
-  - sudo pip install Pygments
+  - pip install Pygments
+  - gem install bundler
 language: ruby
 rvm:
   - 2.1.7
