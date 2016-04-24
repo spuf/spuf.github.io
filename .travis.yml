@@ -1,9 +1,4 @@
-dist: trusty
-sudo: required
-before_install:
-  - sudo -H pip install --upgrade pip
-  - sudo -H pip install Pygments
 language: ruby
 rvm:
-  - 2.1.7
-script: bundle exec jekyll build
+  - 2.1
+  - 2.2

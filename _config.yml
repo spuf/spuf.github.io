@@ -1,13 +1,9 @@
 name: Arseny Razin
-permalink: /:categories/:title.html
-timezone: Europe/Moscow
-markdown: redcarpet
-
-excerpt_separator: "\n\n"
 
 safe: true
-lsi: false
-highlighter: pygments
-
 exclude:
   - "*.less"
+  - Gemfile*
+  - Rakefile
+  - Vagrantfile
+  - vendor

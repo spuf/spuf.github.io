@@ -2,42 +2,44 @@
 layout: clean
 ---
 
+!>{width: 200px; border: 1px solid grey;}https://s.gravatar.com/avatar/3f63a8bc4eb83620fe4316b3ce2b649b?s=400(Photo)!
+
 h1. Разин Арсений Андреевич
 
 h2. Контактная информация
 
-E-mail: "spufru@ya.ru":mailto:spufru@ya.ru
+E-mail: "spufru@gmail.com":mailto:spufru@gmail.com
 Skype: arseniy.razin
-Website: "http://arseny.me":http://arseny.me
+Телефон: +7 (926) 546-4365
 Github: "http://github.com/spuf":http://github.com/spuf
-Телефон: "+7 (926) 546-4365":tel://+79265464365
+Сайт: "http://arseny.me":http://arseny.me
 
 h2. Опыт работы
 
-*07.2010–08.2010*
-ЭР-телеком холдинг
-_Должность:_ Веб-программист
-_Ключевые обязанности:_
-* Разработка плагинов для CMS Drupal (PHP)
+*02.2014 - present*
+"Интернет-агенство Далее":http://www.dalee.ru
+_Position:_ Full Stack Developer
+* Developing websites using PHP, JavaScript, PostgreSQL.
+* Developing and refactoring microservices using Node.js, Ruby, Redis.
+* Working on the "MegaFon":http://moscow.megafon.ru website (BEM methodology and all techs above).
 
-*02.2012–08.2013*
-AwardWallet LLC
-_Должность:_ Веб-программист
-_Ключевые обязанности:_
-* Расширение функционала сайта на Symfony2 (PHP)
-* Разработка мобильного HTML5 приложения на PhoneGap
+*09.2013 - 01.2014*
+"2Товарища":http://twocomrades.ru
+_Position:_ JavaScript Developer
+* Developing frontend using jQuery, Backbone, Highcharts, HTML5 Canvas.
+* Working with different maps services APIs.
 
-*09.2013–01.2014*
-2Товарища
-_Должность:_ Веб-программист
-_Ключевые обязанности:_
-* Разработка frontend (jQuery, Backbone) и backend (PHP) частей веб-приложений
+*02.2012 - 08.2013*
+"AwardWallet LLC":http://awardwallet.com
+_Position:_ Full Stack Developer
+* Refactoring monolith PHP application using unit testing (PHPUnit).
+* Developing website on Symfony2 (PHP, MySQL).
+* Developing HTML5 mobile app using PhoneGap platform (JavaScript, Objective-C, Java).
 
-*02.2014–наст. время*
-Далее
-_Должность:_ Веб-программист
-_Ключевые обязанности:_
-* Разработка сайтов на PHP и JavaScript
+*07.2010 - 08.2010*
+"ЭР-Телеком Холдинг":http://ertelecom.ru
+_Position:_ Full Stack Developer
+* Developing intranet website using Drupal (PHP).
 
 h2. Образование
 
