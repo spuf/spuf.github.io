@@ -1,6 +1,6 @@
-task default: %w[test]
-
 require 'html-proofer'
+
+task :default => :test
 
 task :test do
   sh 'jekyll build'
