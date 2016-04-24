@@ -3,6 +3,8 @@ name: Arseny Razin
 safe: true
 exclude:
   - "*.less"
+  - README.md
+  - CNAME
   - Gemfile*
   - Rakefile
   - Vagrantfile

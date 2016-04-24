@@ -1,8 +1,14 @@
 task default: %w[test]
 
+require 'html-proofer'
+
 task :test do
   sh 'jekyll build'
-  sh 'htmlproofer ./_site'
+  HTMLProofer.check_directory('./_site', {
+    :check_favicon => true,
+    :check_html => true,
+    :disable_external => true
+  }).run
 end
 
 task :server do
