@@ -1,5 +1,8 @@
 name: Arseny Razin
 
+sass:
+  style: compressed
+
 safe: true
 exclude:
   - "*.less"
