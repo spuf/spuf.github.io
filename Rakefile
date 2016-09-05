@@ -12,5 +12,5 @@ task :test do
 end
 
 task :server do
-  sh 'jekyll serve -H 0.0.0.0 -w'
+  sh 'jekyll serve --host 0.0.0.0 --port 4000 --watch --force_polling'
 end
