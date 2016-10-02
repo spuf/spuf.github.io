@@ -1,19 +1,18 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
-     Email: spufru@gmail.com
-       Tor: http://spuf4aqrsjomdxzi.onion
-   Bitcoin: 16ft7dEVuzza2c67Q1o8HSsCcjafcbW6jG
-Bitmessage: BM-2cW9G1jvTabC9md31NMuWhrJFWpBhQZwvC
+      Email: spufru@gmail.com
+    Bitcoin: 16ft7dEVuzza2c67Q1o8HSsCcjafcbW6jG
 
 -----BEGIN PGP SIGNATURE-----
-iQEcBAEBCgAGBQJT2leoAAoJELVUscMMWM1kU8gIAL8rowA6qz/3yaN3M9aIL6fw
-bffBEB9JFGuwitlB74B5BCH80L7gPuKm0ePSRM4BVBKBe3bF7v9pbYeOU3UQooSQ
-x7PliF9YAzopYcXUosskEZeLiisadryy6KGIs0KagLLTU+/K/VDHnFEt6qsiRz9w
-A/LqJnJTrms83CicWbfF2Dco3aDlDlEaGeWxFvH+lz8IGFlKpBQueXv8FmpafAoR
-oZ2wBTA19xNmonuLdUL0+Nb3ECyjkQ6SnURPe6g5GrABqUSR4YAnLnYL8QrPgC4G
-EWtWk+3zahyelGLFy5xnfSNCCrw5aNPylkEWtMAhz+fXjgiMy5ea4nJvLZLONX8=
-=xJS/
+
+iQEcBAEBCgAGBQJX8MwTAAoJELVUscMMWM1kd4oH/02Rc/sTl0JcyrKLd5o8pBRc
+zc9+hKveMFpxSbKdHD9HKXcxO0gUgySBPb8qN7L7dbR+3lNOdd5s+2ww7S4H19Ci
+GIxT5roW1+i63lrKuyBZmbImbe5gd1CM5jEBUhYbk7w6gmvPI6f29SMz3LNG5KhP
+c9UnZZDarRVGuecDt9FJWfgh8/nQ/J6hR6YhDRVlsYB9ROh628wsuvkp8J8M/R+E
+o/pRrO6i9sfZJOimxbLGW5XLkWsd3XZmvCfplTAXtEUTIVktBv/+y3n0DFsakLDE
+rSABokgHcTmbFXL7RI11v3sdAO4m38eGt9hULVRfklpVbYes+Sr7D5pZfonxTwk=
+=Rd/A
 -----END PGP SIGNATURE-----
 
 ================================================================
