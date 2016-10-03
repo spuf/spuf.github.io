@@ -12,6 +12,3 @@ exclude:
   - Rakefile
   - Vagrantfile
   - vendor
-
-gems:
-  - jekyll-sitemap
