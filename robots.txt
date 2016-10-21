@@ -1,5 +1,6 @@
 User-agent: *
 Disallow: /*
 Allow: /$
+Allow: /sitemap.xml$
 Host: arseny.me
 Sitemap: http://arseny.me/sitemap.xml
