@@ -15,15 +15,23 @@ Vagrant.configure("2") do |config|
   end
 
   config.vm.provision "shell", keep_color: true, privileged: false, inline: <<-SHELL
+    set -e
+
     sudo apt-get -q -y update
     sudo apt-get -q -y upgrade
-    gpg --keyserver hkp://keys.gnupg.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3
-    curl -sSL https://get.rvm.io | bash -s stable --ruby=2.1.7 --gems=bundler --quiet-curl
+    sudo apt-get -q -y install build-essential gnupg2 libgmp-dev
+
+    curl -sSL https://rvm.io/mpapis.asc | gpg2 --import -
+    curl -sSL https://get.rvm.io | bash -s stable --ruby=2.4.0 --gems=bundler --quiet-curl
     source /home/vagrant/.rvm/scripts/rvm
+
     cd #{project_root}
+    rm Gemfile.lock || true
     bundle install
 
-    echo "cd #{project_root}" >> ~/.bashrc
+    for s in 'cd #{project_root}'; do
+      grep -q -F "$s" $HOME/.bashrc || echo "$s" >> $HOME/.bashrc
+    done
   SHELL
 
 end
