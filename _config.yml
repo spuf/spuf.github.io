@@ -1,9 +1,19 @@
+lsi: false
+safe: true
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  input: GFM
+  hard_wrap: false
+
 name: Arseny Razin
 
 sass:
   style: compressed
 
-safe: true
 exclude:
   - "*.less"
   - README.md
