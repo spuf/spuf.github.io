@@ -20,13 +20,13 @@
         line-height: 1.5;
         text-align: left;
       }
-      content {
+      main {
         display: flex;
         flex-direction: column;
         justify-content: center;
         align-items: center;
         text-align: center;
-        min-height: 100vh;
+        min-height: 90vh;
       }
       h1 {
         font-size: 2.5rem;
@@ -55,11 +55,11 @@
       a:hover {
         text-decoration: underline;
       }
-      span {
+      section {
         position: relative;
         padding: 1rem;
       }
-      span:before {
+      section:before {
         content: '';
         position: absolute;
         left: 0;
@@ -86,7 +86,7 @@
           -webkit-background-clip: text;
           background-repeat: no-repeat;
         }
-        span:before {
+        section:before {
           background: white;
         }
       }
@@ -94,11 +94,11 @@
     <title>Arseny Razin</title>
   </head>
   <body>
-    <content>
-      <span>
+    <main>
+      <section>
         <h1>Arseny Razin</h1>
         <p><a href="https://github.com/spuf" target="_blank">github.com/spuf</a></p>
-      </span>
-    </content>
+      </section>
+    </main>
   </body>
 </html>
