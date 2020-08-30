@@ -1,27 +1,104 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <title>Arseny Razin</title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="theme-color" content="#ffffff">
-  <meta name="description" content="Arseny Razin">
-  <script type="application/ld+json">
-    {
-      "@context": "http://schema.org",
-      "@type": "Person",
-      "name": "Arseny Razin",
-      "url": "https://arseny.me"
-    }
-  </script>
-  <link rel="shortcut icon" href="/favicon.ico">
-  <link rel="stylesheet" href="/styles.css">
-</head>
-<body>
-<h1>Arseny Razin</h1>
-<p>facebook.com/<a href="https://facebook.com/arsenyrazin" target="_blank">arsenyrazin</a></p>
-<p>github.com/<a href="https://github.com/spuf" target="_blank">spuf</a></p>
-<br>
-<p><a href="/index.txt" target="_blank">PGP</a></p>
-</body>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <style>
+      * {
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+      }
+      body {
+        background-color: white;
+        color: black;
+        margin: 0;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+          sans-serif;
+        font-size: 1rem;
+        font-weight: 400;
+        line-height: 1.5;
+        text-align: left;
+      }
+      content {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        min-height: 100vh;
+      }
+      h1 {
+        font-size: 2.5rem;
+        margin-bottom: 0.5rem;
+        font-weight: 500;
+        line-height: 1.2;
+        margin-top: 0;
+        position: relative;
+        display: inline-block;
+        background: linear-gradient(to bottom, black, black 2rem, white 2rem, white 100%);
+        background-clip: text;
+        -webkit-background-clip: text;
+        background-repeat: no-repeat;
+        color: transparent;
+        white-space: nowrap;
+      }
+      p {
+        margin-top: 0;
+        margin-bottom: 1rem;
+      }
+      a {
+        color: white;
+        text-decoration: none;
+        background-color: transparent;
+      }
+      a:hover {
+        text-decoration: underline;
+      }
+      span {
+        position: relative;
+        padding: 1rem;
+      }
+      span:before {
+        content: '';
+        position: absolute;
+        left: 0;
+        right: 0;
+        bottom: 0.5rem;
+        background: black;
+        top: 3rem;
+        z-index: -1;
+        border-radius: 0.1rem;
+      }
+      @media screen and (prefers-color-scheme: dark) {
+        body {
+          background-color: black;
+          color: white;
+        }
+        a {
+          color: black;
+          text-decoration: none;
+          background-color: transparent;
+        }
+        h1 {
+          background: linear-gradient(to bottom, white, white 2rem, black 2rem, black 100%);
+          background-clip: text;
+          -webkit-background-clip: text;
+          background-repeat: no-repeat;
+        }
+        span:before {
+          background: white;
+        }
+      }
+    </style>
+    <title>Arseny Razin</title>
+  </head>
+  <body>
+    <content>
+      <span>
+        <h1>Arseny Razin</h1>
+        <p><a href="https://github.com/spuf" target="_blank">github.com/spuf</a></p>
+      </span>
+    </content>
+  </body>
 </html>
